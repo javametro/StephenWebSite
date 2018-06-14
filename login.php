@@ -1,8 +1,8 @@
 <?php
 	$host = "localhost";
-	$user = "root";
-	$password = "fnst-3d3k";
-	$db = "stephen";
+	$user = "xxx";
+	$password = "xxx";
+	$db = "xxx";
 	
 	mysql_connect($host, $user, $password);
 	mysql_select_db($db);
