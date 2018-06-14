@@ -1,6 +1,6 @@
 <?php
 	header("Content-Type:text/html; charset=utf-8");
-	$con = mysql_connect("localhost", "root", "fnst-3d3k");
+	$con = mysql_connect("localhost", "xxx", "xxx");
 	if(!$con){
 		die('Could not connect: ' . mysql_error());
 	}
